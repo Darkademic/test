@@ -1,6 +1,7 @@
 {
     "name": "darkademic/test",
     "description": "Test package",
+    "license": "GPL-3.0-or-later",
     "require": {
         "php": "^7.2"
     },
