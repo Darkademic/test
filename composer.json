@@ -1,0 +1,7 @@
+{
+    "name": "darkademic/test",
+    "description": "Test package",
+    "require": {
+        "php": "^7.2"
+    }
+}
